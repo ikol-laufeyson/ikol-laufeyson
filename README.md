@@ -109,6 +109,8 @@ ${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
 [Atabook](https://ikol.atabook.org/)
 ${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
 [Lovemail](https://ikollovemail.straw.page/)
+${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
+[Kin List](https://pronouns.cc/@.ikol)
 ${\textsf{\color{#4f0736}ㅤㅤ🗡ㅤㅤ}}$
 
 
