@@ -113,7 +113,8 @@ ${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
 [Kin List](https://pronouns.cc/@.ikol)
 ${\textsf{\color{#4f0736}ㅤㅤ🗡ㅤㅤ}}$
 
-
+  <p align="center"> 
+  $\tiny\textcolor{gray}{\textsf{I block freely.}}$
 
 <p align="center"> 
   $\tiny\textcolor{gray}{\textsf{ᛁ ᛞᛟᚾᛏ ᚠᛖᛖᛚ ᛒᚨᛞ ᚠᛟᚱ ᛃᛟᚢ ᚲᚨᚢᛋᛖ ᛁ ᚲᚾᛟᚹ ᛁᚠ ᛃᛟᚢ ᚲᛟᚢᛚᛞ ᛋᚹᛁᛏᚲᚺ ᚦᛁᛋ ᛃᛟᚢᛞ ᛒᛖ ᛞᛁᛋᚺᛁᚾ ᛟᚢᛏ ᚦᛖ ᛋᚨᛗᛖ ᛋᚺᛁᛏ}}$
