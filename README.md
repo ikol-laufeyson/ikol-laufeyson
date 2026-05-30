@@ -10,7 +10,7 @@
 
  <div align="center">
   
-ʀᴇᴀᴅ ᴍʏ [ᴘᴀᴛʀᴇᴏɴ](https://www.patreon.com/posts/intro-byi-147476869) ʙᴇꜰᴏʀᴇ ʏᴏᴜ ɪɴᴛᴇʀᴀᴄᴛ.
+ʀᴇᴀᴅ ᴍʏ [ᴘʀᴏɴᴏᴜɴs.ᴄᴄ](https://pronouns.cc/@house-of-odin) ʙᴇꜰᴏʀᴇ ʏᴏᴜ ɪɴᴛᴇʀᴀᴄᴛ.
 
 <p align="center">
 <img width="700" src=https://github.com/user-attachments/assets/5e374c01-6380-4599-80b5-8774c0403657>
@@ -109,8 +109,6 @@ ${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
 [Atabook](https://ikol.atabook.org/)
 ${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
 [Lovemail](https://ikollovemail.straw.page/)
-${\textsf{\color{#32cd32}ㅤㅤ🐍ㅤㅤ}}$
-[Kin List](https://pronouns.cc/@.ikol)
 ${\textsf{\color{#4f0736}ㅤㅤ🗡ㅤㅤ}}$
 
   <p align="center"> 
